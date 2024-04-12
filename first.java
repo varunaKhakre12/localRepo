@@ -1,6 +1,7 @@
 public class first {
     public static void main(String[] args) {
         int i=1;
-        System.out.println(i++);
+        int r=2;
+        System.out.println(i+r);
     }
 }
